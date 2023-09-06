@@ -10,5 +10,4 @@
 ## Para voce entrar emcontato comigo ##
 @jose.narcizo@escola.pr.gov.br
 
-![]()
-https://media.tenor.com/G6DVxB-_d6gAAAAC/horse.gif
+![]()https://media.tenor.com/G6DVxB-_d6gAAAAC/horse.gif
