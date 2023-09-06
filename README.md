@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @m4theusxp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Olá, bem vindo ao meu perfil ##
 
-<!---
-m4theusxp/m4theusxp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Me chamo Jose Matheus
+
+- 
+- Sou estudane do ALURA
+- estou me desenvolvendo la linguajem javascript
+- ultilo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
+
+## Para voce entrar emcontato comigo ##
+@jose.narcizo@escola.pr.gov.br
+
+![]()
+https://media.tenor.com/G6DVxB-_d6gAAAAC/horse.gif
